@@ -1,0 +1,18 @@
+<resources>
+    <string name = "app_name"> yambados2 </string>
+    <string name = "title_status"> Status Update </string>
+    <string name = "hint_status"> Please enter your status in 280 characters </string>
+    <string name = "button_tweet"> Tweet </string>
+    <string name = "titleAccessToken"> Access Token </string>
+    <string name = "titleAccessTokenSecret"> Access Token Secret </string>
+    <string name = "summaryAccessToken"> Please enter your Access Token </string>
+    <string name = "summaryAccessTokenSecret"> Please enter your Access Token Secret </string>
+    <string name = "settings"> Options </string>
+    <string name = "tweet"> Tweet </string>
+    <string name = "purge"> Clean </string>
+    <string name = "titleServiceStart"> Start Service </string>
+    <string name = "titleServiceStop"> Stop Service </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

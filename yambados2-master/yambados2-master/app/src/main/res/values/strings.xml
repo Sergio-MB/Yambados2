@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">yambados2</string>
+    <string name="title_status">Actualizacion de Estado</string>
+    <string name="hint_status">Por favor, introduce tu estado en 280 caracteres</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="titleAccessToken">Access Token</string>
+    <string name="titleAccessTokenSecret">Access Token Secret</string>
+    <string name="summaryAccessToken">Por favor, introduce tu Access Token</string>
+    <string name="summaryAccessTokenSecret">Por favor, introduce tu Access Token Secret</string>
+    <string name="settings">Opciones</string>
+    <string name="tweet">Tweet</string>
+    <string name="purge">Limpiar</string>
+    <string name="titleServiceStart">Arrancar Servicio</string>
+    <string name="titleServiceStop">Para Servicio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

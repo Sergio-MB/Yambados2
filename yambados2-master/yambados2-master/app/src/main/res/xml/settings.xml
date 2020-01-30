@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="accesstoken"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/titleAccessToken"
+        android:summary="@string/summaryAccessToken"/>
+
+    <EditTextPreference
+        android:key="accesstokensecret"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/titleAccessTokenSecret"
+        android:summary="@string/summaryAccessTokenSecret"
+        android:inputType="textPassword"
+        />
+</PreferenceScreen>
